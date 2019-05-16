@@ -1,0 +1,24 @@
+[Sat Feb 16 14:43:06 2019] [error] [client 45.168.156.13] mod_mime_magic: invalid type 0 in mconvert()., referer: http://smart.atdsistemas.com.br/vendors/font-awesome/css/font-awesome.min.css
+[Sat Feb 16 14:43:06 2019] [error] [client 45.168.156.13] mod_mime_magic: invalid type 0 in mconvert()., referer: http://smart.atdsistemas.com.br/vendors/bootstrap/dist/css/bootstrap.min.css
+[Sat Feb 16 15:59:45 2019] [error] [client 45.168.156.13] mod_mime_magic: invalid type 0 in mconvert()., referer: http://smart.atdsistemas.com.br/login
+[Sat Feb 16 15:59:46 2019] [error] [client 45.168.156.13] mod_mime_magic: invalid type 0 in mconvert()., referer: http://smart.atdsistemas.com.br/login
+[Sat Feb 16 15:59:47 2019] [error] [client 45.168.156.13] mod_mime_magic: invalid type 0 in mconvert()., referer: http://smart.atdsistemas.com.br/login
+[Sat Feb 16 16:16:56 2019] [error] [client 45.168.156.14] mod_mime_magic: invalid type 0 in mconvert().
+[Sat Feb 16 16:16:57 2019] [error] [client 45.168.156.14] mod_mime_magic: invalid type 0 in mconvert()., referer: http://smart.atdsistemas.com.br/login
+[Sat Feb 16 16:16:57 2019] [error] [client 45.168.156.14] mod_mime_magic: invalid type 0 in mconvert()., referer: http://smart.atdsistemas.com.br/login
+[Sat Feb 16 16:16:57 2019] [error] [client 45.168.156.14] mod_mime_magic: invalid type 0 in mconvert()., referer: http://smart.atdsistemas.com.br/login
+[Sat Feb 16 16:17:21 2019] [error] [client 45.168.156.14] mod_mime_magic: invalid type 0 in mconvert().
+[Sat Feb 16 16:17:38 2019] [error] [client 45.168.156.14] mod_mime_magic: invalid type 0 in mconvert().
+[Sat Feb 16 16:18:09 2019] [error] [client 45.168.156.14] mod_mime_magic: invalid type 0 in mconvert().
+[Sat Feb 16 16:18:42 2019] [error] [client 45.168.156.14] mod_mime_magic: invalid type 0 in mconvert().
+[Sat Feb 16 16:18:44 2019] [error] [client 45.168.156.14] mod_mime_magic: invalid type 0 in mconvert().
+[Sat Feb 16 16:18:54 2019] [error] [client 45.168.156.14] mod_mime_magic: invalid type 0 in mconvert()., referer: http://smart.atdsistemas.com.br/vendors/font-awesome/css/font-awesome.min.css
+[Sat Feb 16 16:18:54 2019] [error] [client 45.168.156.14] mod_mime_magic: invalid type 0 in mconvert()., referer: http://smart.atdsistemas.com.br/vendors/bootstrap/dist/css/bootstrap.min.css
+[Sat Feb 16 16:22:03 2019] [error] [client 45.168.156.14] mod_mime_magic: invalid type 0 in mconvert().
+[Sat Feb 16 16:22:10 2019] [error] [client 45.168.156.14] mod_mime_magic: invalid type 0 in mconvert().
+[Sat Feb 16 16:22:17 2019] [error] [client 45.168.156.14] mod_mime_magic: invalid type 0 in mconvert().
+[Sat Feb 16 16:22:18 2019] [error] [client 45.168.156.14] mod_mime_magic: invalid type 0 in mconvert().
+[Sat Feb 16 16:22:18 2019] [error] [client 45.168.156.14] mod_mime_magic: invalid type 0 in mconvert().
+[Sat Feb 16 16:22:18 2019] [error] [client 45.168.156.14] mod_mime_magic: invalid type 0 in mconvert().
+[Sat Feb 16 16:22:19 2019] [error] [client 45.168.156.14] mod_mime_magic: invalid type 0 in mconvert().
+[Sat Feb 16 16:22:19 2019] [error] [client 45.168.156.14] mod_mime_magic: invalid type 0 in mconvert().
